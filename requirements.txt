@@ -1,0 +1,2 @@
+ecdsa          # for elliptic curve key operations
+requests       # for HTTP API calls (blockchain info)
