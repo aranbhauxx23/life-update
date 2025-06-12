@@ -1,0 +1,7 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+# Log file
+wallet_checker.log
+# Optional environment files
+.env
